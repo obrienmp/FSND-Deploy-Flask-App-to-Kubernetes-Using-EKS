@@ -34,7 +34,6 @@ Parameters:
     Type: String
     NoEcho: true
     Description: GitHub API Token
-    Default: 9d432f666c77d46bbd7e5709e8a7b33d78125995
     MinLength: 3
     MaxLength: 100
     ConstraintDescription: You must enter a GitHub personal access token
